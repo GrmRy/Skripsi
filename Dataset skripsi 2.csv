@@ -1,4 +1,4 @@
-Tanggal;Inflow (m/s);Outflow(m/s);Curah Hujan (mm)
+Tanggal;Inflow(m/s);Outflow(m/s);CurahHujan(mm)
 01/01/2021;106,15;0,00;1,6
 02/01/2021;104,53;0,00;3,5
 03/01/2021;29,17;0,00;0
